@@ -61,7 +61,7 @@ const cardNumberPattern = {
     {
       mask: "0000 0000 0000 0000",
       regex: /^3[47]\d{0,13}/, 
-      cardtype: "american express",
+      cardtype: "americanexpress",
     },
     {
       mask: "0000 0000 0000 0000",
